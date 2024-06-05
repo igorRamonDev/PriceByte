@@ -1,0 +1,2 @@
+# PriceByte
+ PryceByte é um programa inovador projetado para escanear preços, salvar o histórico de preços dos produtos e informar sobre promoções de produtos de informática. Ideal para entusiastas de tecnologia, gamers, profissionais de TI e qualquer pessoa interessada em encontrar as melhores ofertas em produtos de informática, o PryceByte oferece uma solução completa para monitoramento de preços e promoções.
